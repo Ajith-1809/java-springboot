@@ -1,4 +1,4 @@
-const RENDER_BACKEND_URL = 'https://your-java-backend.onrender.com'; // Change this after deploying to Render
+const RENDER_BACKEND_URL = 'https://java-springboot-backend-60c1.onrender.com'; // Live Render URL
 
 const API_URL = (window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1') 
     ? 'http://localhost:8080/api' 
